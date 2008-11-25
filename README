@@ -1,0 +1,8 @@
+EmojiEnabler
+
+This app allows you to enable Emoji on non-jailbroken iPhones.
+Simply run the app, tap Enable Emoji, and then go to System Preferences, General, Keyboards, International, Japanes, and toggle Emoji on.
+
+Note that compiling this app does require having a valid dev certificate. You may have to change the app ID to match an existing provisioning profile or create a new one. If you have a profile that matches just the wildcard * then you should be fine.
+
+The original source for this app comes from http://westbaer.de/post/61339115/emojis, though it has been slightly modified to work on non-jailbroken iPhones.
